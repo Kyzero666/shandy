@@ -1,1 +1,1 @@
-worker node cptprice.js
+worker node shandy.js
