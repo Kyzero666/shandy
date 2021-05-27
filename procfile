@@ -1,1 +1,1 @@
-worker node shandy.js
+worker: node shandy.js
