@@ -1,0 +1,15 @@
+{
+  "name": "shandy",
+  "version": "0.0.1",
+  "description": "",
+  "main": "shandy.js",
+  "scripts": {
+    "start": "node shandy.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "discord.js-commando": "^0.9.0"
+  }
+}
