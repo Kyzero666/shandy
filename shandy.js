@@ -125,7 +125,7 @@ shandy.on('message', function(message) {
       //          message.channel.send(['','```prolog','RULES','```','```','-Only guild member can join. (Including VP/OFFICERS)','-Must follow -Nexus- rules','-If broke the rules, you will be disqualified from that events.','```']).then(message => {message.delete(60000)});
       //          break;
         case 'WEBMORE':
-            message.channel.send(['','```','We are one big happy family that share the same belief,','shares different ideas and different play styles.','Although we not the same country and different ages,','-Nexus- is the connection that hold us together.','A connection link for all the server into 1 guild, 1 community, 1 family. and this is just our beginning.','```']).then(message => {message.delete(60000)});
+            message.channel.send(['','```','We are one big happy family that share the same belief,','shares different ideas and different play styles.','```']).then(message => {message.delete(60000)});
             break;
         case 'HELP':
             message.channel.send(['','-website','-fb','-ig','-trello','-cookies','-webmore','-shandy (question)','-roll','-rps<Input :fist: :raised_hand: :v:>','-help']).then(message => {message.delete(60000)});
