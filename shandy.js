@@ -262,4 +262,4 @@ shandy.on('message', function(message) {
 
 });
 
-shandy.login(process.env.shandy_TOKEN);
+shandy.login(process.env.SHANDY_TOKEN);
